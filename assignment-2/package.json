@@ -1,0 +1,17 @@
+{
+  "name": "letter",
+  "version": "1.0.0",
+  "description": "assigment 2 letter ",
+  "main": "letter.js",
+  "dependencies": {
+    "chance": "^1.0.4",
+    "commander": "^2.9.0",
+    "word-wrap": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "julia",
+  "license": "ISC"
+}
